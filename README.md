@@ -3,11 +3,11 @@
 
 ## I'm a Information Engineering Student, Passionate at Data Science , Mobile Development, and Domain Expertise
 
-- 🔭 I looked up to learn many things in 2022
-- 🌱 Im working as a Project Analyst at 180 Degrees Consulting UGM
+- 🔭 Iam currently learning Python, .NET , and Javascript
+- 🌱 I Experienced in Data Science and Machine Learning Fields
 - 👯 I enroll myself as a hacker position in Google Developer Student Club UGM
 - 🥅 2022 Goals: Land on my first internship
-- ⚡ Fun fact: i ate a big portion of food 
+- ⚡ Fun fact: I sleep a lot
 
 ### Connect with me:
 
