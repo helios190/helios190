@@ -1,7 +1,7 @@
 ### Hi there, I'm Bintang 👋 
 
 
-## I'm a Information Engineering Student, Passionate at Data Science , Mobile Development, and Domain Expertise
+## I'm a Information Engineering Student at Universitas Gadjah Mada, Passionate at Data Science , Consulting , and Web Development
 
 - 🔭 Iam currently learning Python, .NET , and Javascript
 - 🌱 I Experienced in Data Science and Machine Learning Fields
