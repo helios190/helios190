@@ -9,7 +9,7 @@
 - 🥅 2022 Goals: Land on my first internship
 - ⚡ Fun fact: I sleep a lot
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helios190&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helios190&&count_private=true&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helios190&show_icons=true&count_private=true&theme=algolia)
 
