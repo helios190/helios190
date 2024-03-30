@@ -1,9 +1,9 @@
 ### Hi there, I'm Bintang 👋 
 
 
-## I'm a Information Engineering Student at Universitas Gadjah Mada, Passionate at Data Science , Consulting , and Web Development
+## I'm a Information Engineering Student at Universitas Gadjah Mada, Passionate at Data Science and Backend Development
 
-- 🔭 Iam currently learning Python, .NET , and Javascript
+- 🔭 Iam currently learning Python, .NET , Golang, and Javascript
 - 🌱 I Experienced in Data Science and Machine Learning Fields
 - 👯 I enroll myself as a hacker position in Google Developer Student Club UGM
 - 🥅 2022 Goals: Land on my first internship
